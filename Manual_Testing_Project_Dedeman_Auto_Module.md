@@ -7,7 +7,7 @@ Application under test: Dedeman.ro
 Tools used: Jira, Zephyr Squad.
 
 Functional specifications:
-The below story (daca aveti mai multe scrieti stories) was created in Jira and describes the functional specifications of the "nume_modul" module, for which the final project is performed upon.
+The below stories were created in Jira and describe  the functional specifications of the "Auto" module, for which the final project is performed upon.
 
 inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier
 
