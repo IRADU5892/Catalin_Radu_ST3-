@@ -1,4 +1,5 @@
-Testing Project for **Dedeman Auto Module**
+## Testing Project for **Dedeman Auto Module** ##
+
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
 Application under test: Inserati aici numele aplicatiei pe care o testati
