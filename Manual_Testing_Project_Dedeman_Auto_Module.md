@@ -11,7 +11,6 @@ The below stories were created in Jira and describe  the functional specificatio
 
 You can find the stories that were created, in the pictres bellow:
 <img width="520" alt="ST3CR_STORY EX_03" src="https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/3f553492-97c0-4001-84cd-ef9bf047b512">
-<img width="329" alt="ST3CR_STORY EX_01" src="https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/5e67b637-6ff7-427a-9c39-c80c0525bf5a">
 
 Here you can find the release that was created for this project:
 
