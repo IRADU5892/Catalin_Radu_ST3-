@@ -15,10 +15,10 @@ You can find the stories that were created, in the pictures bellow:
 ![story 01](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/61e16ba3-f5e2-493b-aeb1-db9f5510cfc3)
 ![story 02](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/29e7f7f0-478e-407c-86ea-120f2ccc4bff)
 
-Here you can find the release that was created for this project:
-![release_04](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/5ba56503-6363-4194-bedd-12170b8395c6)
+The stories can be also accessed at this [link](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/blob/main/ST3CR_Manual%20_Testing_Dedeman_Auto_Module_Stories.doc)
 
-The stories can be accessed at the following [link](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/blob/main/ST3CR_Manual%20_Testing_Dedeman_Auto_Module_Stories.doc)
+The release that was created for this project includes the issues listed bellow :
+![release_04](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/5ba56503-6363-4194-bedd-12170b8395c6)
 
 Testing process
 The test process was performed based on the standard test process as described below.
