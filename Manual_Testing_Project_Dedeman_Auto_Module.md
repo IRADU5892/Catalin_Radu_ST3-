@@ -11,7 +11,6 @@ The below stories were created in Jira and describe  the functional specificatio
 
 You can find the stories that were created, in the pictres bellow:
 
-
 Here you can find the release that was created for this project:
 
 (inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)
