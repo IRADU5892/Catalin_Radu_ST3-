@@ -7,6 +7,7 @@ Application under test: **Dedeman.ro**
 Tools used: **Jira, Zephyr Squad**.
 
 
+
 Functional specifications: <p>
 The below stories were created in Jira and describe the functional specifications of the "Auto" module, for which the final project is performed upon.
 
