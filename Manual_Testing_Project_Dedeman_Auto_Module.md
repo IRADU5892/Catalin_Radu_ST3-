@@ -11,6 +11,7 @@ The below stories were created in Jira and describe  the functional specificatio
 
 You can find the stories that were created, in the pictres bellow:
 <img width="520" alt="ST3CR_STORY EX_03" src="https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/3f553492-97c0-4001-84cd-ef9bf047b512">
+<img width="329" alt="ST3CR_STORY EX_01" src="https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/5e67b637-6ff7-427a-9c39-c80c0525bf5a">
 
 Here you can find the release that was created for this project:
 
@@ -19,7 +20,7 @@ Here you can find the release that was created for this project:
 Testing process
 The test process was performed based on the standard test process as described below.
 
-1.1 **Test planning** <p>
+1.1 <h5> Test planning </h5>  <p>
 The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (inserati link catre documentul cu planul de testare)
