@@ -17,10 +17,10 @@ You can find the stories that were created, in the pictures bellow:
 
 The stories can be also accessed at this [link](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/blob/main/ST3CR_Manual%20_Testing_Dedeman_Auto_Module_Stories.doc)
 
-The release that was created for this project includes the issues listed as follows :
+The release that was created for this project includes the issues listed as follow :
 ![release_04](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/5ba56503-6363-4194-bedd-12170b8395c6)
 
-Testing process
+Testing process <p>
 The test process was performed based on the standard test process as described below.
 
 1.1 __Test planning__ <p>
