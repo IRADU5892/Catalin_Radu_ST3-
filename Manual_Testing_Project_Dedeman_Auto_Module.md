@@ -18,7 +18,7 @@ You can find the stories that were created, in the pictures bellow:
 Here you can find the release that was created for this project:
 ![release_04](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/5ba56503-6363-4194-bedd-12170b8395c6)
 
-The stories can be accessed at the following [link](ST3CR_Manual _Testing_Dedeman_Auto_Module_Stories.doc)
+The stories can be accessed at the following [link](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/blob/main/ST3CR_Manual%20_Testing_Dedeman_Auto_Module_Stories.doc)
 
 Testing process
 The test process was performed based on the standard test process as described below.
