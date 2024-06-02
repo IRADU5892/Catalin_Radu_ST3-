@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jira</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://itfclasses.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3CR-1">As USER (unreg. user) and REG. USER (registered user) - want to have the AUTO Module in place to perform all Shopping Cart functionalities</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3CR-1">ST3CR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3CR-3]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3CR-3">As REG. USER - want to have the Motor Oils &amp; Additives (AUTO Module -sub menu)  in place to perform all Shopping Cart functionalities </a>
+            <span class="subText">
+               Created: 18/Apr/24                   &nbsp;Updated: 02/Jun/24
+
+                                                    &nbsp;Resolved: 08/May/24
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10441">Catalin_Radu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="ST3CR_DEDEMAN AUTO Module_Impl."
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10441%20AND%20%22fixVersion%22%3D10460%20ORDER%20BY%20priority%20ASC"
+            >ST3CR_DEDEMAN AUTO Module_Impl.</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3CR-1">As USER (unreg. user) and REG. USER (registered user) - want to have the AUTO Module in place to perform all Shopping Cart functionalities</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-17374-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            ST3CR                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3CR-8">
+                     <strike>ST3CR-8</strike>                 </a>
+            </td>
+            <td>
+                As REG. USER - want to have the Break...
+            </td>
+            <td>
+                Done
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>The <b>REG.</b> <b>USER</b> can:</p>
+
+<p>-<ins>Access DEDEMAN application main page</ins><br/>
+-<ins>Choose one of the store conveniently located</ins> and view the product availability for the particular store branch</p>
+
+<p>(or view the complete product list when store location is not selected)<br/>
+-<ins>Access application main page,then:from MENU /AUTO /Motor Oil &amp; Addtives</ins><br/>
+-<ins>Add the desired items to the Shopping Card</ins><br/>
+-<ins>Compare 2 or more products</ins><br/>
+-<ins>Apply filters</ins> by: Brand, Type, Height, Width, Length, or Price<br/>
+-<ins>Sort the product list</ins> by: Availability, Price, (Low to High, High to Low), Newest, Special Offers<br/>
+-<ins>See, add or remove items from the Shopping Cart</ins></p>
+
+<p><b>Preconditions:</b></p>
+
+<p>The client should have a stable and reliable internet connection.</p>
+
+<p>The Dedeman website <a href="http://www.opensky.com/" class="external-link" rel="nofollow noreferrer">www</a>.dedeman.ro   is accessible and operational</p>
+
+<p>The application clients client could have a valid account on the Dedeman site.</p>
+
+<p>The client should have a valid credentials (name, address, postal code, e-mail address,phone no., etc) available for use, in order to place an order</p>
+
+<p><b>Acceptance Criteria:</b></p>
+
+<p><b>1: Search Bar</b></p>
+
+<ul>
+	<li>The website should feature a clear and easily accessible search bar on relevant pages, including the homepage.</li>
+</ul>
+
+
+<p><b>2: Keyword Search</b></p>
+
+<ul>
+	<li>Users can enter keywords in the search bar, and the system returns relevant searched products results.</li>
+	<li>The search results should include part names, descriptions, prices, and availability status.</li>
+	<li>Users should receive a clear message if there are no search results for the entered keywords.</li>
+</ul>
+
+
+<p><b>5: Search Results</b></p>
+
+<ul>
+	<li>The search results page displays a list of relevant products.</li>
+	<li>Each result should include part names, descriptions, prices, and availability status.</li>
+	<li>The displayed results should be relevant to the search criteria and the selected item.</li>
+</ul>
+
+
+
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3CR-1">As USER (unreg. user) and REG. USER (registered user) - want to have the AUTO Module in place to perform all Shopping Cart functionalities</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3CR-1">ST3CR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3CR-2]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3CR-2">As USER - want to have the Trailers &amp; Accesories (Auto Module -Sub menu)  in place to perform all Shopping Cart functionalities </a>
+            <span class="subText">
+               Created: 18/Apr/24                   &nbsp;Updated: 02/Jun/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10441">Catalin_Radu_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3CR-1">As USER (unreg. user) and REG. USER (registered user) - want to have the AUTO Module in place to perform all Shopping Cart functionalities</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-17373-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            ST3CR                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3CR-5">
+                     ST3CR-5                 </a>
+            </td>
+            <td>
+                As USER - want to have the Trailers s...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>The <b>USER</b> can:</p>
+
+<p>-<ins>Access DEDEMAN application main page</ins><br/>
+-<ins>Choose one of the store conveniently located</ins> and view the product availability for the particular store branch </p>
+
+<p>(or view the complete product list when store location is not selected)<br/>
+-<ins>Access application main page,then:from MENU /AUTO /Trailer &amp; Accessories</ins>  <br/>
+-<ins>Add the desired items to the Shopping Card</ins><br/>
+-<ins>Compare 2 or more products</ins><br/>
+-<ins>Apply filters</ins> by: Brand, Type, Height, Width, Length, or Price<br/>
+-<ins>Sort the product list</ins> by: Availability, Price, (Low to High, High to Low), Newest, Special Offers<br/>
+-<ins>See, add or remove items from the Shopping Cart</ins></p>
+
+
+
+<p><b>Preconditions:</b></p>
+
+<p>The client should have a stable and reliable internet connection.</p>
+
+<p>The Dedeman website <a href="http://www.opensky.com/" class="external-link" rel="nofollow noreferrer">www.</a>dedeman.ro   is accessible and operational</p>
+
+<p>The application clients client could have a valid account on the Dedeman site.</p>
+
+<p>The client should have a valid credentials (name, address, postal code, e-mail address,phone no., etc) available for use, in order to place an order</p>
+
+<p><b>Acceptance Criteria:</b></p>
+
+<p><b>1: Search Bar</b></p>
+
+<ul>
+	<li>The website should feature a clear and easily accessible search bar on relevant pages, including the homepage.</li>
+</ul>
+
+
+<p><b>2: Keyword Search</b></p>
+
+<ul>
+	<li>Users can enter keywords in the search bar, and the system returns relevant searched products results.</li>
+	<li>The search results should include part names, descriptions, prices, and availability status.</li>
+	<li>Users should receive a clear message if there are no search results for the entered keywords.</li>
+</ul>
+
+
+<p><b>5: Search Results</b></p>
+
+<ul>
+	<li>The search results page displays a list of relevant products.</li>
+	<li>Each result should include part names, descriptions, prices, and availability status.</li>
+	<li>The displayed results should be relevant to the search criteria and the selected item.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Sun Jun 02 12:11:04 UTC 2024 by IT Factory using Jira 1001.0.0-SNAPSHOT#100253-rev:92211430da4064a284c9f2142f1026c17c948191.
+
+</body>
+</html>
