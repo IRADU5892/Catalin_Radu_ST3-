@@ -15,8 +15,8 @@ You can find the stories that were created, in the pictres bellow:
 ![story 02](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/29e7f7f0-478e-407c-86ea-120f2ccc4bff)
 
 Here you can find the release that was created for this project:
+![release_04](https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/5ba56503-6363-4194-bedd-12170b8395c6)
 
-(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)
 
 Testing process
 The test process was performed based on the standard test process as described below.
