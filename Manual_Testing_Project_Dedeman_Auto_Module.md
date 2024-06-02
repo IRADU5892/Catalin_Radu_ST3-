@@ -10,6 +10,7 @@ Functional specifications:
 The below stories were created in Jira and describe  the functional specifications of the "Auto" module, for which the final project is performed upon.
 
 You can find the stories that were created, in the pictres bellow:
+<img width="520" alt="ST3CR_STORY EX_03" src="https://github.com/IRADU5892/Manual_Testing_Project_Dedeman_Auto_Module/assets/169366475/3f553492-97c0-4001-84cd-ef9bf047b512">
 
 Here you can find the release that was created for this project:
 
