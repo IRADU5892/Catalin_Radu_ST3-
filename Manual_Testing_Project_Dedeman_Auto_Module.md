@@ -9,7 +9,8 @@ Tools used: **Jira, Zephyr Squad**.
 Functional specifications:
 The below stories were created in Jira and describe  the functional specifications of the "Auto" module, for which the final project is performed upon.
 
-inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier
+You can find the stories that were created, in the pictres bellow:
+
 
 Here you can find the release that was created for this project:
 
